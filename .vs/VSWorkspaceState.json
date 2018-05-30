@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\test",
+    "\\test\\packages",
+    "\\test\\test",
+    "\\test\\test\\Views",
+    "\\test\\test\\Views\\Account"
+  ],
+  "SelectedNode": "\\test\\test\\Views\\Account\\_ExternalLoginsListPartial.cshtml",
+  "PreviewInSolutionExplorer": false
+}
